@@ -1,0 +1,23 @@
+# Composer dependencies
+/vendor/
+
+# Node dependencies
+/node_modules/
+
+# OS files
+.DS_Store
+
+# IDE/editor files
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# PHP CodeSniffer cache
+phpcs-cache
+
+# Temporary files
+*.tmp
+*.swp
+*.swo

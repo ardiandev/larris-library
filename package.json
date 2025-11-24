@@ -1,0 +1,19 @@
+{
+	"name": "larrislibrary",
+	"version": "1.0.0",
+	"main": "index.js",
+	"scripts": {
+		"start": "wp-scripts start --webpack-copy-php --blocks-manifest",
+		"build": "wp-scripts build --webpack-copy-php --blocks-manifest",
+		"format": "wp-scripts format",
+		"lint:css": "wp-scripts lint-style",
+		"lint:js": "wp-scripts lint-js"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"description": "",
+	"devDependencies": {
+		"@wordpress/scripts": "^31.0.0"
+	}
+}

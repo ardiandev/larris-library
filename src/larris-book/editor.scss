@@ -1,0 +1,15 @@
+.wp-block-create-block-larris-book {
+	display: flex;
+	flex-direction: column;
+	padding: 10px;
+	gap: 10px;
+
+	label {
+		font-size: 1rem;
+	}
+
+	.components-text-control__input {
+		font-size: 2rem;
+		padding: 30px;
+	}
+}
